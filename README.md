@@ -97,6 +97,9 @@ Open http://localhost:5173
 4. Like it, comment, search in the top bar, click tag chips, switch Latest/Popular.
 5. Open an author's profile and press Follow.
 
+### Project Demo
+https://drive.google.com/file/d/19hsKui2bzsBSbz40qingY6pIi6e46Hl2/view?usp=drive_link
+
 ### Step 6 – Deploy (optional)
 - Database: MongoDB Atlas.
 - Backend: Render. Root dir `server`, build `npm install`, start `npm start`. Add the 4 env variables. Set CLIENT_URL to your frontend URL.
